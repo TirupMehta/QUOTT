@@ -52,7 +52,7 @@ If you encounter any issues or have questions, reach out to our support team:
 
 ## License
 
-**QUOTT** is a proprietary application. All rights reserved. Unauthorized distribution or modification is prohibited. For more details, see our Terms of Use.
+**QUOTT** is a proprietary application. All rights reserved. Unauthorized distribution or modification is prohibited.
 
 ## About Us
 
