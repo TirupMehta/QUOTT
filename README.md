@@ -13,9 +13,8 @@ Get inspired every day with **QUOTT**. Discover hand-picked quotes on life, succ
 
 ## Installation
 
-Right now you can download the app from the **Release** section for both:
+Right now you can download the app from the **Release** section for:
 
-* **iOS**
 * **Android**
 
 > QUOTT is not available right now in the App Store & Play Store.
