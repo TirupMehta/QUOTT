@@ -26,6 +26,14 @@ Right now you can download the app from the **Release** section for:
 * **Save Favorites**: Bookmark quotes you love to revisit them anytime.
 * **Customize**: Adjust themes and notification settings in the app’s preferences.
 
+---
+
+### **Security Verification**
+
+For your peace of mind, **QUOTT** has been thoroughly scanned and verified to be free of malware. You can view the detailed verification report here: [VirusTotal Verification](https://www.virustotal.com/gui/file/f0a3f3933a5132590b157644d402380e3e8107892ff4f34ecdb80830d32d70eb/detection).
+
+---
+
 ## Contributing
 
 We welcome contributions to make QUOTT even better! To contribute:
