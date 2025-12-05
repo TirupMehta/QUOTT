@@ -40,14 +40,14 @@ We welcome contributions to make QUOTT even better! To contribute:
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of your changes.
 
-For feedback or feature suggestions, please email us at **[support@begins.site](mailto:support@begins.site)**.
+For feedback or feature suggestions, please email us at **[support@tirup.in](mailto:support@tirup.in)**.
 
 ## Support
 
 If you encounter any issues or have questions, reach out to our support team:
 
-* **Email**: [support@begins.site](mailto:support@begins.site)
-* **Website**: [begins.site](https://begins.site)
+* **Email**: [support@tirup.in](mailto:support@tirup.in)
+* **Website**: [tirup.in](https://begins.site)
 * **FAQ**: Check our FAQ page for common queries.
 
 ## License
